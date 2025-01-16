@@ -1,0 +1,6 @@
+PKG_CFLAGS=-I. -fopenmp -fPIC
+PKG_CXXFLAGS=-I. -fopenmp -fPIC
+PKG_LIBS=-lgomp
+
+DYLIB_LD = g++ -std=gnu99   # make sure g++ is used to link the library!
+MAIN_LD = g++ -std=gnu99
