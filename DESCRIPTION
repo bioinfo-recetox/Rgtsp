@@ -2,8 +2,8 @@ Package: Rgtsp
 Version: 0.0-6
 Date: 2017-10-30
 Title: Generalized Top Scoring Pairs in R
-Author: Vlad Popovici <popovici@recetox.muni.cz>
-Maintainer: Vlad Popovici <popovici@recetox.muni.cz>
+Author: Vlad Popovici <vlad.popovici@recetox.muni.cz>
+Maintainer: Vlad Popovici <vlad.popovici@recetox.muni.cz>
 Depends: R (>= 2.10.0), party
 Description: Extends Geman's Top Scoring Pairs method by implementing
     different scoring functions and multi-class decision rules (using trees).
