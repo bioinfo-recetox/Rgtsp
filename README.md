@@ -1,6 +1,7 @@
 # Rgtsp
 
-Extends Geman's Top Scoring Pairs method by implementing different 
+Extends Geman's Top Scoring Pairs method (https://doi.org/10.2202/1544-6115.1071)
+by implementing different 
 scoring functions and multi-class decision rules (using trees). This 
 is a parallelized implementation of the algorithm based on OpenMP.
 
